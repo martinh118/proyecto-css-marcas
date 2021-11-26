@@ -12,6 +12,8 @@ img {
   border-style: dashed;
   border-color: black;
   filter:alpha(opacity=40); /* For IE8 and earlier */
+  display: flex;
+  flex-flow: row wrap;
  }
 
 .dropdown-menu > li {
@@ -56,6 +58,7 @@ ul, ol {
 
 body{
     background-image: linear-gradient(to bottom right, rgb(69, 235, 77), rgb(255, 255, 65));
+
   }
 
 p{
