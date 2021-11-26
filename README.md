@@ -3,3 +3,4 @@ También añadí font-family en títulos (h2,h3) y textos(p) para que la letra s
 Cree un menu desplegable (dropdown menu) al principio de la página para cada sección.
 Edité el css de las imagenes para que contengan una pequeña opacidad y un borde de tipo dashed.
 Además, ordené los ficheros y carpetas como es debido y a petición de la practica.
+He creat un textarea per que cada usuari pugui afegir la seva opinió sobre la pel·licula.
