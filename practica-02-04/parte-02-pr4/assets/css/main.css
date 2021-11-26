@@ -25,6 +25,7 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -149,12 +150,12 @@ input, select, textarea {
 		}
 
 		a:hover {
-			color: #ed786a;
+			color: #3dac09;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: #77f32e;
 			}
 
 	strong, b {
@@ -1769,7 +1770,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #ed786a;
+		background: linear-gradient(to bottom right, rgb(69, 235, 77), rgb(255, 255, 65));;
 		color: #fff !important;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -1917,7 +1918,7 @@ input, select, textarea {
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #75e619;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 			font-size: 3em;
 			letter-spacing: 13px;
@@ -2001,13 +2002,13 @@ input, select, textarea {
 
 			#nav > ul > li.active > a:before,
 			#nav > ul > li:hover > a:before {
-				background: #ED786A;
+				background: linear-gradient(to bottom right, rgb(69, 235, 77), rgb(255, 255, 65));;
 				color: #fff;
 			}
 
 			#nav > ul > li.active > a > span,
 			#nav > ul > li:hover > a > span {
-				color: #ED786A;
+				color: #45ee1b;
 			}
 
 	.dropotron {

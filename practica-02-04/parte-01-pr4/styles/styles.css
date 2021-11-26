@@ -1,0 +1,69 @@
+h2 {
+    text-align: center;  
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  }
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  opacity:0.8;
+  border-style: dashed;
+  border-color: black;
+  filter:alpha(opacity=40); /* For IE8 and earlier */
+ }
+
+.dropdown-menu > li {
+  float:left;
+}
+
+ul, ol {
+  list-style:none;
+}
+
+
+.dropdown-menu li a {
+  background-color:#000;
+  color:#fff;
+  text-decoration:none;
+  padding:10px 12px;
+  display:block;
+}
+
+.dropdown-menu li a:hover {
+  background-color:#434343;
+}
+
+.dropdown-menu li ul {
+  display:none;
+  position:absolute;
+  min-width:140px;
+}
+
+.dropdown-menu li:hover > ul {
+  display:block;
+}
+
+.dropdown-menu li ul li {
+  position:relative;
+}
+
+.dropdown-menu li ul li ul {
+  right:-140px;
+  top:0px;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, rgb(69, 235, 77), rgb(255, 255, 65));
+  }
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    border: 11px solid rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+}
+
